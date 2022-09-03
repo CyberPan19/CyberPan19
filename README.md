@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberPan19
-- 👀 I’m interested in Cybersecurity and Data Science
-- 🌱 I’m currently learning the main subjects of the above fields in my Master Degree
+- 👀 I’m interested in Cybersecurity and Data Science domains
+- 🌱 Currently working on my Master's Degree in Cyber Security.
 
 
 <!---
